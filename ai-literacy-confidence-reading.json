@@ -1,0 +1,106 @@
+{
+  "readingId": "ai-literacy-confidence-reading",
+  "title": "Confidence Is Not Evidence — Verifying What AI Tells You",
+  "timestamp": "2026-09-30T03:55:10.177Z",
+  "persona": {
+    "name": "Electric Owl",
+    "emoji": "🦉"
+  },
+  "responses": {
+    "videoreflect": "Being prone to making stuff up, by deviating from fact and logic. A complete fabrication of statement and sentences.",
+    "rule": "I'll check my code against real life examples and the online GitHub in case so personal/work data is safe.",
+    "clue": "are you sure about your answer, why is this error being generated?"
+  },
+  "score": {
+    "earned": 15,
+    "possible": 17,
+    "pct": 88.2
+  },
+  "scoreDetail": {
+    "q-recall": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-scenario": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-why": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-claim": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-selectall": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "act-order-verify": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "act-flip-vocab": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "act-terminal-verify": {
+      "earned": 0,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "q-rm": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-interview": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-debug": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-newsit": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-blank": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "act-video": {
+      "earned": 0,
+      "possible": 1,
+      "kind": "video"
+    },
+    "resp-videoreflect": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "response"
+    },
+    "resp-rule": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "response"
+    },
+    "resp-clue": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "response"
+    }
+  }
+}

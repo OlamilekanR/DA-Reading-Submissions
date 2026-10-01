@@ -1,0 +1,117 @@
+{
+  "readingId": "variable-type-structure-reading",
+  "title": "Name It, Tag It, Group It — Variable, Data Type, and Data Structure",
+  "timestamp": "2026-09-30T03:17:26.809Z",
+  "persona": {
+    "name": "Electric Owl",
+    "emoji": "🦉"
+  },
+  "responses": {
+    "videoreflect": "",
+    "interviewexplain": "A data type is for classification like a number, while structure is for arranging the numbers like categories i.e Age.",
+    "strategy": "Data type and Data Structure the name was easy to swap, eventually I got the hang of it.",
+    "clue": "A single value row like visit date is a data type being able to hold a series of numbers strung together, while the entire row of four pieces is different and are made up of maybe integers, floats and or str."
+  },
+  "score": {
+    "earned": 16,
+    "possible": 19,
+    "pct": 84.2
+  },
+  "scoreDetail": {
+    "q-name": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-age": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-temp": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-reminder": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-visitdate": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-form": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-zip": {
+      "earned": 0.5,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-interview": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-summary": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-selectall": {
+      "earned": 0.5,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "act-drag-buckets": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "act-order-classify": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "act-flip-vocab": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "act-video": {
+      "earned": 0,
+      "possible": 1,
+      "kind": "video"
+    },
+    "resp-videoreflect": {
+      "earned": 0,
+      "possible": 1,
+      "kind": "response"
+    },
+    "resp-interviewexplain": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "response"
+    },
+    "resp-strategy": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "response"
+    },
+    "resp-clue": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "response"
+    },
+    "q-blank": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    }
+  }
+}
