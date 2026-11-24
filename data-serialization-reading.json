@@ -1,0 +1,104 @@
+{
+  "readingId": "data-serialization-reading",
+  "title": "Make It Survive — Data Serialization",
+  "timestamp": "2026-11-24T12:59:24.374Z",
+  "persona": {
+    "name": "Cosmic Owl",
+    "emoji": "🦉"
+  },
+  "responses": {
+    "ownwords": "I would load the file and check the types and keys of the restored data before passing it to the rest of the program."
+  },
+  "done": [
+    "act-flip-vocab",
+    "q-recall",
+    "q-tuple",
+    "act-drag-formats",
+    "q-anatomy",
+    "q-write",
+    "q-fnnames",
+    "q-round1",
+    "q-round2",
+    "q-round3",
+    "q-selectall",
+    "q-summary",
+    "resp-ownwords"
+  ],
+  "score": {
+    "earned": 13,
+    "possible": 14,
+    "pct": 92.9
+  },
+  "scoreDetail": {
+    "q-recall": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-tuple": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "act-drag-formats": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "q-anatomy": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-write": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-fnnames": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-round1": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-round2": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-round3": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-selectall": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-summary": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "resp-ownwords": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "response"
+    },
+    "act-flip-vocab": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "act-terminal-roundtrip": {
+      "earned": 0,
+      "possible": 1,
+      "kind": "activity"
+    }
+  }
+}

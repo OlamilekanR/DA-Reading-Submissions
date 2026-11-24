@@ -1,0 +1,92 @@
+{
+  "readingId": "nested-loops-conditionals-reading",
+  "title": "Inside the Inside — Nested Loops & Conditionals",
+  "timestamp": "2026-11-24T11:42:27.694Z",
+  "persona": {
+    "name": "Cosmic Owl",
+    "emoji": "🦉"
+  },
+  "responses": {
+    "strategy": "I trace one full pass of the inner loop while checking indentation to see which lines run inside each block. On nested conditionals, I verify the outer condition before moving"
+  },
+  "done": [
+    "act-flip-vocab",
+    "q-recall",
+    "q-compare",
+    "q-count",
+    "q-order",
+    "q-indent",
+    "q-gate",
+    "q-cond",
+    "q-combo",
+    "q-bridge",
+    "resp-strategy"
+  ],
+  "score": {
+    "earned": 11,
+    "possible": 12,
+    "pct": 91.7
+  },
+  "scoreDetail": {
+    "q-recall": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-compare": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-count": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-order": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-gate": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-cond": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-combo": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-bridge": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-selectall": {
+      "earned": 0,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "act-flip-vocab": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "resp-strategy": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "response"
+    },
+    "q-indent": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "readingId": "functions-build-it-once-reading",
+  "title": "Build It Once, Use It Again — Functions, Parameters & Return Values",
+  "timestamp": "2026-11-24T12:37:24.268Z",
+  "persona": {
+    "name": "Cosmic Owl",
+    "emoji": "🦉"
+  },
+  "responses": {
+    "strategy": "I'd look for a return statement inside the function body and check what happens when I store or print the result of calling it."
+  },
+  "done": [
+    "act-flip-vocab",
+    "q-arith",
+    "q-indent",
+    "q-defq",
+    "q-par",
+    "q-fillcode",
+    "q-predict",
+    "q-nonequiz",
+    "q-debug",
+    "q-selectall",
+    "q-summary",
+    "resp-strategy"
+  ],
+  "score": {
+    "earned": 12,
+    "possible": 12,
+    "pct": 100
+  },
+  "scoreDetail": {
+    "q-arith": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-indent": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-defq": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-par": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-nonequiz": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-debug": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-summary": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-selectall": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "act-flip-vocab": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "resp-strategy": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "response"
+    },
+    "q-fillcode": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-predict": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    }
+  }
+}

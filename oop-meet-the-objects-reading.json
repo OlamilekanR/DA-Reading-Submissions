@@ -1,0 +1,80 @@
+{
+  "readingId": "oop-meet-the-objects-reading",
+  "title": "Meet the Objects — Defining a Class From Scratch",
+  "timestamp": "2026-11-24T13:21:51.105Z",
+  "persona": {
+    "name": "Cosmic Owl",
+    "emoji": "🦉"
+  },
+  "responses": {
+    "clue": "Each object keeps its own attributes stored on self, so updating one instance leaves other instances untouched."
+  },
+  "done": [
+    "q-func",
+    "q-dict",
+    "q-attr",
+    "act-fillcode-init",
+    "q-self",
+    "q-predict",
+    "q-selectall",
+    "q-summary",
+    "resp-clue"
+  ],
+  "score": {
+    "earned": 9,
+    "possible": 10,
+    "pct": 90
+  },
+  "scoreDetail": {
+    "q-func": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-dict": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-attr": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-self": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-predict": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-selectall": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-summary": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "act-flip-vocab": {
+      "earned": 0,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "resp-clue": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "response"
+    },
+    "act-fillcode-init": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    }
+  }
+}

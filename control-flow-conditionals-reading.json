@@ -1,0 +1,92 @@
+{
+  "readingId": "control-flow-conditionals-reading",
+  "title": "Choose, Repeat, Trace — Control Flow & Conditionals",
+  "timestamp": "2026-11-24T11:53:42.148Z",
+  "persona": {
+    "name": "Cosmic Owl",
+    "emoji": "🦉"
+  },
+  "responses": {
+    "strategy": "Before I run code, I will trace the first and last loop passes by hand and test edge values like."
+  },
+  "done": [
+    "q-recall",
+    "q-compare",
+    "q-predict",
+    "q-foriter",
+    "q-rangebound",
+    "q-obo",
+    "q-whiletrace",
+    "q-combo",
+    "q-selectall",
+    "q-bridge",
+    "resp-strategy"
+  ],
+  "score": {
+    "earned": 11.5,
+    "possible": 12,
+    "pct": 95.8
+  },
+  "scoreDetail": {
+    "q-recall": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-compare": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-predict": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-foriter": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-rangebound": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-whiletrace": {
+      "earned": 0.5,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-combo": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-bridge": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-selectall": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "act-flip-vocab": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "resp-strategy": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "response"
+    },
+    "q-obo": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    }
+  }
+}

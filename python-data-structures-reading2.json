@@ -1,0 +1,86 @@
+{
+  "readingId": "python-data-structures-reading2",
+  "title": "Lookups Matter — Python Data Structures",
+  "timestamp": "2026-11-24T13:24:45.336Z",
+  "persona": {
+    "name": "Cosmic Owl",
+    "emoji": "🦉"
+  },
+  "responses": {
+    "strategy": "I would keep a linear search when the list is small or I only search it once."
+  },
+  "done": [
+    "q-recall-worst",
+    "q-recall-dictkey",
+    "q-linear",
+    "q-build",
+    "q-debug",
+    "q-brackets",
+    "q-blank",
+    "q-selectall",
+    "q-summary",
+    "resp-strategy"
+  ],
+  "score": {
+    "earned": 10,
+    "possible": 11,
+    "pct": 90.9
+  },
+  "scoreDetail": {
+    "q-recall-worst": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-recall-dictkey": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-linear": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-build": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-debug": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-brackets": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-blank": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-selectall": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-summary": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "resp-strategy": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "response"
+    },
+    "act-flip-vocab": {
+      "earned": 0,
+      "possible": 1,
+      "kind": "activity"
+    }
+  }
+}

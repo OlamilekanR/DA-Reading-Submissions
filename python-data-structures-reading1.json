@@ -1,0 +1,86 @@
+{
+  "readingId": "python-data-structures-reading1",
+  "title": "Pick the Right Container — Python Data Structures",
+  "timestamp": "2026-11-24T12:54:58.043Z",
+  "persona": {
+    "name": "Cosmic Owl",
+    "emoji": "🦉"
+  },
+  "responses": {
+    "strategy": "Is it permanent? as in immutable. Are duplicates allowed?"
+  },
+  "done": [
+    "q-recall",
+    "q-loop",
+    "q-append",
+    "q-tuple-predict",
+    "q-dict",
+    "q-blank",
+    "q-setlen",
+    "act-drag-containers",
+    "q-summary",
+    "resp-strategy"
+  ],
+  "score": {
+    "earned": 10,
+    "possible": 11,
+    "pct": 90.9
+  },
+  "scoreDetail": {
+    "q-recall": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-loop": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-append": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-tuple-predict": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-dict": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-blank": {
+      "earned": 0,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-setlen": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "act-drag-containers": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "q-summary": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "resp-strategy": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "response"
+    },
+    "act-flip-vocab": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    }
+  }
+}

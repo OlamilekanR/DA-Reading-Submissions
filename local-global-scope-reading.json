@@ -1,0 +1,93 @@
+{
+  "readingId": "local-global-scope-reading",
+  "title": "Who Can See This Variable? — Local vs. Global Scope",
+  "timestamp": "2026-11-24T12:49:11.049Z",
+  "persona": {
+    "name": "Cosmic Owl",
+    "emoji": "🦉"
+  },
+  "responses": {
+    "strategy": "I'd look at the def line to see if it's a parameter, check the function body for assignments making it local, and check outside functions for globals."
+  },
+  "done": [
+    "act-flip-vocab",
+    "q-recall",
+    "q-argp",
+    "q-predictlocal",
+    "q-global",
+    "q-debug",
+    "q-blankglobal",
+    "q-predictubl",
+    "q-fix",
+    "act-drag-scope-sort",
+    "q-summary",
+    "resp-strategy"
+  ],
+  "score": {
+    "earned": 11.5,
+    "possible": 12,
+    "pct": 95.8
+  },
+  "scoreDetail": {
+    "q-recall": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-argp": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-predictlocal": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-global": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-debug": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-predictubl": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-fix": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-summary": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "act-flip-vocab": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "act-drag-scope-sort": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "resp-strategy": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "response"
+    },
+    "q-blankglobal": {
+      "earned": 0.5,
+      "possible": 1,
+      "kind": "quiz"
+    }
+  }
+}

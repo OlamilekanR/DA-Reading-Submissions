@@ -1,0 +1,87 @@
+{
+  "readingId": "try-it-catch-it-keep-going-reading",
+  "title": "Try It, Catch It, Keep Going — Error Handling",
+  "timestamp": "2026-11-24T13:04:06.569Z",
+  "persona": {
+    "name": "Cosmic Owl",
+    "emoji": "🦉"
+  },
+  "responses": {
+    "blankinput": "IndexError",
+    "explain": "Python stops the try block and jumps to the matching except ValueError block."
+  },
+  "done": [
+    "act-flip-vocab",
+    "q-split",
+    "q-isdigit",
+    "q-crash",
+    "q-fail",
+    "q-two",
+    "q-interview",
+    "q-blank",
+    "q-sortjob",
+    "resp-explain"
+  ],
+  "score": {
+    "earned": 9.5,
+    "possible": 11,
+    "pct": 86.4
+  },
+  "scoreDetail": {
+    "q-split": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-isdigit": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-crash": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-fail": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-two": {
+      "earned": 0.5,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-interview": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-sortjob": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-selectall": {
+      "earned": 0,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "act-flip-vocab": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "resp-explain": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "response"
+    },
+    "q-blank": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    }
+  }
+}

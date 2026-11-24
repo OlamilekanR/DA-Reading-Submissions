@@ -1,0 +1,86 @@
+{
+  "readingId": "two-ways-introduce-object-reading",
+  "title": "Two Ways to Introduce an Object",
+  "timestamp": "2026-11-24T13:20:25.671Z",
+  "persona": {
+    "name": "Cosmic Owl",
+    "emoji": "🦉"
+  },
+  "responses": {
+    "strategy": "uild a dictionary (or a set) first. That costs O(n) once. After that, each check takes about one step. With the list, each check can take up to 50,000 comparisons, 10,000 times a day."
+  },
+  "done": [
+    "q-attr",
+    "q-fstring",
+    "q-round2",
+    "q-round3",
+    "act-fillcode-repr",
+    "q-round5",
+    "act-drag-scope",
+    "q-summary",
+    "resp-strategy",
+    "q-round4"
+  ],
+  "score": {
+    "earned": 10,
+    "possible": 11,
+    "pct": 90.9
+  },
+  "scoreDetail": {
+    "q-attr": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-fstring": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-round2": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-round3": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-round4": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-round5": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-summary": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "act-drag-scope": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "act-flip-vocab": {
+      "earned": 0,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "resp-strategy": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "response"
+    },
+    "act-fillcode-repr": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    }
+  }
+}

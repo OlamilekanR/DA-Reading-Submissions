@@ -1,0 +1,98 @@
+{
+  "readingId": "recursion-reading1-callyourselfback",
+  "title": "Call Yourself Back — Understanding Recursion",
+  "timestamp": "2026-11-24T12:01:04.047Z",
+  "persona": {
+    "name": "Cosmic Owl",
+    "emoji": "🦉"
+  },
+  "responses": {
+    "strategy": "each call shrinks the input toward the base case and whether step sizes or conditions can skip right past it."
+  },
+  "done": [
+    "q-recall",
+    "q-branch",
+    "q-countdown",
+    "q-identify",
+    "q-total",
+    "q-frames",
+    "act-stack-trace",
+    "q-overflow",
+    "act-fill-count",
+    "q-selectall",
+    "q-summary",
+    "resp-strategy"
+  ],
+  "score": {
+    "earned": 12,
+    "possible": 13,
+    "pct": 92.3
+  },
+  "scoreDetail": {
+    "q-recall": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-branch": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-countdown": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-identify": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-total": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-frames": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-overflow": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-summary": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-selectall": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "act-flip-vocab": {
+      "earned": 0,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "resp-strategy": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "response"
+    },
+    "act-stack-trace": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "act-fill-count": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    }
+  }
+}

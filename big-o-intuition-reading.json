@@ -1,0 +1,93 @@
+{
+  "readingId": "big-o-intuition-reading",
+  "title": "When the Crowd Grows — Big-O Intuition",
+  "timestamp": "2026-11-24T12:43:03.754Z",
+  "persona": {
+    "name": "Cosmic Owl",
+    "emoji": "🦉"
+  },
+  "responses": {
+    "explain": "O(1) checks a multitude regardless of the length, though finding it by an identifier or key and O(n) is more like a list and scales with n."
+  },
+  "done": [
+    "act-flip-vocab",
+    "q-recall-dict",
+    "q-recall-worst",
+    "q-blank",
+    "q-find",
+    "q-growth",
+    "q-double",
+    "q-classify",
+    "q-misconception",
+    "q-selectall",
+    "q-bridge",
+    "resp-explain"
+  ],
+  "score": {
+    "earned": 12,
+    "possible": 12,
+    "pct": 100
+  },
+  "scoreDetail": {
+    "q-recall-dict": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-recall-worst": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-blank": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-find": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-growth": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-double": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-classify": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-misconception": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-selectall": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-bridge": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "resp-explain": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "response"
+    },
+    "act-flip-vocab": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    }
+  }
+}
